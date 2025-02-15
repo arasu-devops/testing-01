@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"modifiedAt":{"$numberInt":"-1"}},"name":"modifiedAt_-1"},{"v":{"$numberInt":"2"},"key":{"boardId":{"$numberInt":"1"}},"name":"boardId_1"}],"uuid":"a153a2b3f25a4d248c2bc0862a3b407e","collectionName":"swimlanes","type":"collection"}
